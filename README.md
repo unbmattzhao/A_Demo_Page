@@ -1,7 +1,7 @@
 # An Online Markting Webpage
 Designed for a client who is a marketing agent, who needs a website to demonstrate their services.
 
-## optimized for search engines
+## Optimized for search engines
 Set webpage name, keywords and description so that this website is properly optimized for search engines
 
 ## Source code to be adjusted
